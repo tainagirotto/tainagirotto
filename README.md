@@ -13,8 +13,8 @@
 - 🌱 Now focusing on learning Python | DataScience
 - 💭 Let's get to know each other
 - 👩‍💻 Open to work
-
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tainagirotto&layout=compact&theme=dracula)](https://github.com/tainagirotto/github-readme-stats)
 ![Trinity's github stats](https://github-readme-stats.vercel.app/api/?username=tainagirotto&show_icons=true&hide=contribs,prs&theme=dracula)
 
