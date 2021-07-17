@@ -1,6 +1,6 @@
 
   
-<h1 align="center">Hey 👋, I'm Tainá!</h1>
+<h1 align="center">Hey 👋 I'm Tainá!</h1>
 <h4 align="center"> System Analysis and Development Student | 🌏 São Paulo, Brazil</h4>
 <h3 align="center"> <a href="https://www.linkedin.com/in/taina-girotto/" target="_blank"><img align="center" alt="taina-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
@@ -14,7 +14,7 @@
 - 💭 Let's get to know each other
 - 👩‍💻 Open to work
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tainagirotto&layout=compact&theme=dracula)](https://github.com/tainagirotto/github-readme-stats)
 ![Trinity's github stats](https://github-readme-stats.vercel.app/api/?username=tainagirotto&show_icons=true&hide=contribs,prs&theme=dracula)
 
